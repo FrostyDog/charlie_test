@@ -16,3 +16,8 @@ node randomizer.js
 # Custom: <count> <min> <max>
 node randomizer.js 5 1 100
 ```
+
+Notes:
+
+- `count` must be a positive integer.
+- `min` and `max` can be any integers, but `max` must be >= `min`.

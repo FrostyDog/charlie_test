@@ -2,6 +2,9 @@
   "name": "charlie_test",
   "version": "0.0.0",
   "private": true,
+  "engines": {
+    "node": ">=14.0.0"
+  },
   "scripts": {
     "randomize": "node randomizer.js"
   }
