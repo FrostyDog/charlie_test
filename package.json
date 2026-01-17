@@ -1,0 +1,8 @@
+{
+  "name": "charlie_test",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "randomize": "node randomizer.js"
+  }
+}
